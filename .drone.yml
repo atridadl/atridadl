@@ -5,7 +5,19 @@ name: default
 steps:
 - name: build
   image: node
+  environment:
+    CLOUDRON_URL:
+      from_secret: CLOUDRON_URL
+    CLOUDRON_USERNAME:
+      from_secret: CLOUDRON_USERNAME
+    CLOUDRON_TOKEN:
+      from_secret: CLOUDRON_TOKEN
+    BUILD_URL:
+      from_secret: BUILD_URL
+    BUILD_TOKEN:
+      from_secret: BUILD_TOKEN
   commands:
   - cd atridad
-  - yarn
-  - yarn build
+  - npm i -g cloudron
+  - cloudron login --username ${CLOUDRON_USERNAME} --password ${CLOUDRON_TOKEN} ${CLOUDRON_URL}
+  - cloudorn build --set-build-service ${BUILD_URL} --build-service-token ${BUILD_TOKEN}

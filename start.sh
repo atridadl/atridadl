@@ -6,5 +6,5 @@ chown -R cloudron:cloudron /app/data
 
 echo "==> Starting Server"
 cd /app/code
-
-exec /usr/local/bin/gosu cloudron:cloudron node /app/code/.output/server/index.mjs
+ls
+exec /usr/local/bin/gosu cloudron:cloudron node /app/code/server/index.mjs
