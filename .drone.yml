@@ -19,5 +19,5 @@ steps:
   commands:
   - cd atridad
   - npm i -g cloudron
-  - cloudron login --username ${CLOUDRON_USERNAME} --password ${CLOUDRON_TOKEN} ${CLOUDRON_URL}
+  - cloudron login --username "${CLOUDRON_USERNAME}" --password "${CLOUDRON_TOKEN}" "${CLOUDRON_URL}"
   - cloudorn build --set-build-service ${BUILD_URL} --build-service-token ${BUILD_TOKEN}
