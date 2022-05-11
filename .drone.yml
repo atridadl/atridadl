@@ -33,7 +33,9 @@ steps:
   - name: dockersock
     path: /var/run/docker.sock
   commands:
-  - cloudron build --set-build-service $BUILD_URL --build-service-token $BUILD_TOKEN > /dev/null
+  - docker login --username $DOCKER_USERNAME --password $DOCKER_PASSWORD
+  - docker build -t atridadl/atridad .
+  - docker push atridadl/atridad
 
 volumes:
 - name: dockersock
