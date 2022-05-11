@@ -3,7 +3,7 @@ type: docker
 name: default
 
 steps:
-- name: build
+- name: nuxt
   image: node
   environment:
     CLOUDRON_URL:
@@ -21,4 +21,30 @@ steps:
   - ls
   - npm i -g cloudron
   - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
+steps:
+- name: test
+  image: docker:dind
+  environment:
+    BUILD_URL:
+      from_secret: BUILD_URL
+    BUILD_TOKEN:
+      from_secret: BUILD_TOKEN
+  volumes:
+  - name: dockersock
+    path: /var/run
+  commands:
+  - sleep 5 # give docker enough time to start
   - cloudron build --set-build-service $BUILD_URL --build-service-token $BUILD_TOKEN > /dev/null
+
+
+services:
+- name: docker
+  image: docker:dind
+  privileged: true
+  volumes:
+  - name: dockersock
+    path: /var/run
+
+volumes:
+- name: dockersock
+  temp: {}
