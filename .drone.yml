@@ -22,7 +22,6 @@ steps:
   - npm i -g cloudron
   - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
 
-steps:
 - name: test
   image: docker:dind
   environment:
