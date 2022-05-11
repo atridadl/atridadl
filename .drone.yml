@@ -5,25 +5,12 @@ name: default
 steps:
 - name: nuxt
   image: node
-  environment:
-    CLOUDRON_URL:
-      from_secret: CLOUDRON_URL
-    CLOUDRON_USERNAME:
-      from_secret: CLOUDRON_USERNAME
-    CLOUDRON_PASSWORD:
-      from_secret: CLOUDRON_PASSWORD
-    BUILD_URL:
-      from_secret: BUILD_URL
-    BUILD_TOKEN:
-      from_secret: BUILD_TOKEN
   commands:
   - cd atridad
-  - ls
-  - npm i -g cloudron
   - yarn
   - yarn build
 
-- name: test
+- name: docker
   image: docker:dind
   environment:
     DOCKER_USERNAME:
@@ -37,6 +24,22 @@ steps:
   - docker login --username $DOCKER_USERNAME --password $DOCKER_TOKEN
   - docker build -t atridadl/atridad .
   - docker push atridadl/atridad
+
+- name: cloudron
+  image: node
+  environment:
+    CLOUDRON_URL:
+      from_secret: CLOUDRON_URL
+    CLOUDRON_USERNAME:
+      from_secret: CLOUDRON_USERNAME
+    CLOUDRON_PASSWORD:
+      from_secret: CLOUDRON_PASSWORD
+    SITE_URL:
+      from_secret: SITE_URL
+  commands:
+  - npm i -g cloudron
+  - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
+  - cloudron update --image atridadl/atridad --app $SITE_URL
 
 volumes:
 - name: dockersock
