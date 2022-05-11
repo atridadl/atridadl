@@ -20,7 +20,8 @@ steps:
   - cd atridad
   - ls
   - npm i -g cloudron
-  - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
+  - yarn
+  - yarn build
 
 - name: test
   image: docker:dind
