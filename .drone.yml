@@ -21,4 +21,4 @@ steps:
   - ls
   - npm i -g cloudron
   - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
-  - cloudron build --set-build-service $BUILD_URL --build-service-token $BUILD_TOKEN
+  - cloudron build --set-build-service $BUILD_URL --build-service-token $BUILD_TOKEN > /dev/null
