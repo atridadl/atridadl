@@ -25,10 +25,10 @@ steps:
 - name: test
   image: docker:dind
   environment:
-    BUILD_URL:
-      from_secret: BUILD_URL
-    BUILD_TOKEN:
-      from_secret: BUILD_TOKEN
+    DOCKER_USERNAME:
+      from_secret: DOCKER_USERNAME
+    DOCKER_TOKEN:
+      from_secret: DOCKER_TOKEN
   volumes:
   - name: dockersock
     path: /var/run/docker.sock
