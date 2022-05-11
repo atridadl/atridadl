@@ -10,15 +10,14 @@ steps:
       from_secret: CLOUDRON_URL
     CLOUDRON_USERNAME:
       from_secret: CLOUDRON_USERNAME
-    CLOUDRON_TOKEN:
-      from_secret: CLOUDRON_TOKEN
+    CLOUDRON_PASSWORD:
+      from_secret: CLOUDRON_PASSWORD
     BUILD_URL:
       from_secret: BUILD_URL
     BUILD_TOKEN:
       from_secret: BUILD_TOKEN
   commands:
   - cd atridad
-  - echo $CLOUDRON_USERNAME
   - npm i -g cloudron
-  - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_TOKEN $CLOUDRON_URL
+  - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
   - cloudorn build --set-build-service $BUILD_URL --build-service-token $BUILD_TOKEN
