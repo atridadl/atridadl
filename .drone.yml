@@ -21,6 +21,7 @@ steps:
   - ls
   - npm i -g cloudron
   - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
+
 steps:
 - name: test
   image: docker:dind
@@ -31,20 +32,11 @@ steps:
       from_secret: BUILD_TOKEN
   volumes:
   - name: dockersock
-    path: /var/run
+    path: /var/run/docker.sock
   commands:
-  - sleep 5 # give docker enough time to start
   - cloudron build --set-build-service $BUILD_URL --build-service-token $BUILD_TOKEN > /dev/null
-
-
-services:
-- name: docker
-  image: docker:dind
-  privileged: true
-  volumes:
-  - name: dockersock
-    path: /var/run
 
 volumes:
 - name: dockersock
-  temp: {}
+  host:
+    path: /var/run/docker.sock
