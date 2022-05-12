@@ -5,7 +5,7 @@ WORKDIR /app/code
 
 ENV VERSION=2.11.1
 
-COPY atridad/.output /app/code/
+COPY spa/.output /app/code/
 RUN sysctl -w fs.inotify.max_user_watches=524288
 
 # copy start script

@@ -6,7 +6,7 @@ steps:
 - name: nuxt
   image: node
   commands:
-  - cd atridad
+  - cd spa
   - yarn
   - yarn build
 
