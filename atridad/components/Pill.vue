@@ -13,21 +13,21 @@
             case "white":
                 return "border-white text-white";
             case "red":
-                return "border-red-600 text-red-600";
+                return "border-red-800 text-red-800";
             case "orange":
-                return "border-orange-600 text-orange-600";
+                return "border-orange-800 text-orange-800";
             case "yellow":
-                return "border-yellow-600 text-yellow-600";
+                return "border-yellow-800 text-yellow-800";
             case "pink":
-                return "border-pink-600 text-pink-600";
+                return "border-pink-800 text-pink-800";
             case "purple":
-                return "border-purple-600 text-purple-600";
+                return "border-purple-800 text-purple-800";
             case "blue":
-                return "border-blue-600 text-blue-600";
+                return "border-blue-800 text-blue-800";
             case "teal":
-                return "border-teal-600 text-teal-600";
+                return "border-teal-800 text-teal-800";
             case "green":
-                return "border-green-600 text-green-600";
+                return "border-green-800 text-green-800";
             default:
                 return "border-black text-black";
         }
