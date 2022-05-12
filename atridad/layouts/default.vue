@@ -36,6 +36,10 @@
 </script>
 
 <template>
+<Head>
+      <Title>Atri's Site</Title>
+      <Meta name="description" content="Atri's Site" />
+</Head>
     <NavBar :logoRoute="logoRoute" :routes="routes" :links="links" :button="navButton" />
     <NuxtPage />
 </template>

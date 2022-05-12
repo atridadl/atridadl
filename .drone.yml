@@ -39,7 +39,7 @@ steps:
   commands:
   - npm i -g cloudron
   - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
-  - cloudron update --image atridadl/atridad --app $SITE_URL
+  - cloudron update --image atridadl/atridad --app $SITE_URL --no-backup
 
 volumes:
 - name: dockersock
