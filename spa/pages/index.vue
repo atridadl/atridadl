@@ -18,7 +18,6 @@
     { text: "Mastodon", name: "mastodon", type: "fab", to: "https://social.atridad.cloud/@atridad" },
     { text: "Gitea", name: "git-alt", type: "fab", to: "https://code.atridad.cloud/atridad" },
     { text: "Email", name: "envelope", type: "fas", to: "mailto:atridad@icloud.com" },
-    { text: "Spotify", name: "spotify", type: "fab", to: "https://open.spotify.com/user/31t2imafllz5pplhzfrmkrmivpi4?si=4f8f0953cdb54136" },
     { text: "LinkedIn", name: "linkedin", type: "fab", to: "https://www.linkedin.com/in/atridad/" },
   ];
 </script>
