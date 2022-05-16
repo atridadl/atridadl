@@ -44,6 +44,6 @@
 
 <style>
 html {
-  background-color: #ddd6fe;
+  background-color: #b8aceb;
 }
 </style>
