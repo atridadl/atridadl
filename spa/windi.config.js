@@ -19,13 +19,6 @@ export default defineConfig({
             color: 'inherit',
             a: {
               'color': 'inherit',
-              'opacity': 0.75,
-              'fontWeight': '500',
-              'textDecoration': 'underline',
-              '&:hover': {
-                opacity: 1,
-                color: colors.teal[600],
-              },
             },
             b: { color: 'inherit' },
             strong: { color: 'inherit' },

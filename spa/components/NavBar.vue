@@ -28,7 +28,7 @@
         <a v-for="link in links" :key="link.name" class="no-underline block mt-4 sm:inline-block sm:mt-0 text-black hover:text-pink-600 mr-4" :href="link.route" target="_blank">{{ link.name }}</a>
       </div>
       <div>
-        <a :href="button.route" target="_blank" class="no-underline inline-block text-sm px-4 py-2 leading-none border rounded text-black border-black hover:border-pink-600 hover:text-pink-600 mt-4 sm:mt-0">{{ button.name }}</a>
+        <a :href="button.route" target="_blank" class="no-underline inline-block text-sm px-4 py-2 leading-none border-2 rounded text-black border-black hover:border-pink-600 hover:text-pink-600 mt-4 sm:mt-0">{{ button.name }}</a>
       </div>
     </div>
   </nav>

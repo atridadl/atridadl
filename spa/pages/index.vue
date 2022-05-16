@@ -1,16 +1,16 @@
 <script setup lang="ts">
   const pills = [
-    { name: "Vue", colour: "green" },
-    { name: "AWS", colour: "orange" },
-    { name: "CDK", colour: "orange" },
-    { name: "JavaScript", colour: "yellow" },
-    { name: "TypeScript", colour: "blue" },
+    { name: "Vue", colour: "black" },
+    { name: "AWS", colour: "black" },
+    { name: "CDK", colour: "black" },
+    { name: "JavaScript", colour: "black" },
+    { name: "TypeScript", colour: "black" },
     { name: "Git", colour: "black" },
-    { name: "Golang", colour: "teal" },
-    { name: "Bash", colour: "purple" },
-    { name: "Firebase", colour: "orange" },
-    { name: "WordPress", colour: "blue" },
-    { name: "Node.js", colour: "green" },
+    { name: "Golang", colour: "black" },
+    { name: "Bash", colour: "black" },
+    { name: "Firebase", colour: "black" },
+    { name: "WordPress", colour: "black" },
+    { name: "Node.js", colour: "black" },
   ];
 
   const socialLinks = [

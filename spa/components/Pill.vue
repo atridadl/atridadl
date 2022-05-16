@@ -37,7 +37,7 @@
 <template>
     <div
         :class="getColourClass(props.colour)"
-        class="no-underline inline-block text-sm px-4 py-2 leading-none border-2 rounded-full hover:border-pink-600 hover:text-pink-600 m-2 sm:mt-0"
+        class="no-underline inline-block font-extrabold text-sm px-4 py-2 leading-none border-3 rounded-full hover:border-pink-600 hover:text-pink-600 m-2 sm:mt-0"
     >
         {{ props.name || "" }}
     </div>
