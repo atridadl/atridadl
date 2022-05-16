@@ -32,14 +32,15 @@ steps:
       from_secret: CLOUDRON_URL
     CLOUDRON_USERNAME:
       from_secret: CLOUDRON_USERNAME
-    CLOUDRON_PASSWORD:
-      from_secret: CLOUDRON_PASSWORD
+    CLOUDRON_TOKEN:
+      from_secret: CLOUDRON_TOKEN
+    DOCKER_IMAGE:
+      from_secret: DOCKER_IMAGE
     SITE_URL:
       from_secret: SITE_URL
   commands:
   - npm i -g cloudron
-  - cloudron login --username $CLOUDRON_USERNAME --password $CLOUDRON_PASSWORD $CLOUDRON_URL
-  - cloudron update --image atridadl/atridad --app $SITE_URL --no-backup
+  - cloudron update --server $CLOUDRON_URL --token $CLOUDRON_TOKEN --image $DOCKER_IMAGE --app $SITE_URL --no-backup
 
 volumes:
 - name: dockersock
