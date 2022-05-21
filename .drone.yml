@@ -5,6 +5,9 @@ name: default
 steps:
 - name: nuxt
   image: node
+  when:
+    branch:
+    - main
   commands:
   - cd spa
   - yarn
@@ -12,6 +15,9 @@ steps:
 
 - name: docker
   image: docker:dind
+  when:
+    branch:
+    - main
   environment:
     DOCKER_USERNAME:
       from_secret: DOCKER_USERNAME
@@ -27,6 +33,9 @@ steps:
 
 - name: cloudron
   image: node
+  when:
+    branch:
+    - main
   environment:
     CLOUDRON_URL:
       from_secret: CLOUDRON_URL
