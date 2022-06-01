@@ -4,7 +4,11 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
     modules: [
         'nuxt-windicss',
+        '@nuxt/content',
     ],
+    content: {
+
+    },
     build: {
         transpile: [
             '@fortawesome/vue-fontawesome',
