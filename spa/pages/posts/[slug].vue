@@ -10,10 +10,11 @@
 
 <template>
   <main>
+    <h1 class="text-xl font-black text-center">{{ data.title }}</h1>
+    <h5 class="text-md font-black text-center">{{ data.date }}</h5>
+
     <div class="flex flex-wrap justify-center items-center space-x-3 m-6">
       <ContentRenderer :value="data">
-        <h1 class="text-xl font-black text-center">{{ data.title }}</h1>
-        <h2 class="text-md font-black text-center">{{ data.date }}</h2>
         <MarkdownRenderer :value="data" />
       </ContentRenderer>
     </div>
