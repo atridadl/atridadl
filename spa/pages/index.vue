@@ -28,9 +28,11 @@
     <h2 class="text-xl font-black text-center">(he/him)</h2>
 
     <img
-      class="rounded-lg mx-auto my-6 max-w-[250px] w-1/2"
+      class="rounded-lg mx-auto my-6"
+      height="250"
+      width="250"
       src="~/assets/img/logo.webp"
-      alt="A cartoon drawing of my me."
+      alt="A cartoon drawing of me."
     />
 
     <SocialLinks :links="socialLinks" />
