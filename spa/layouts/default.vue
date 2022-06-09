@@ -4,7 +4,7 @@
   const logoRoute = ref("/")
   const navButton = ref({
     name: "Status",
-    route: "https://status.atridad.dev/status/cloud"
+    route: "https://monitor.atridad.cloud"
   });
 
   const routes = ref([{
