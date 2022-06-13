@@ -14,10 +14,6 @@
   {
     name: "Projects",
     route: "/projects"
-  },
-  {
-    name: "Freelance",
-    route: "/freelance"
   },{
     name: "Posts",
     route: "/posts"
