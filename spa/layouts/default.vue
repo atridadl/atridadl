@@ -2,10 +2,7 @@
   const route = useRoute();
   const router = useRouter();
   const logoRoute = ref("/")
-  const navButton = ref({
-    name: "Status",
-    route: "https://monitor.atridad.cloud"
-  });
+  const navButton = ref();
 
   const routes = ref([{
     name: "Home",
