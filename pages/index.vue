@@ -16,8 +16,7 @@
   const socialLinks = [
     { text: "GitHub", name: "github", type: "fab", to: "https://github.com/atridadl" },
     { text: "Mastodon", name: "mastodon", type: "fab", to: "https://social.atridad.cloud/@atridad" },
-    { text: "Gitea", name: "git-alt", type: "fab", to: "https://code.atridad.cloud/atridad" },
-    { text: "Email", name: "envelope", type: "fas", to: "mailto:atridad@icloud.com" },
+    { text: "Email", name: "envelope", type: "fas", to: "mailto:atridadl@outlook.com" },
     { text: "LinkedIn", name: "linkedin", type: "fab", to: "https://www.linkedin.com/in/atridad/" },
   ];
 </script>
