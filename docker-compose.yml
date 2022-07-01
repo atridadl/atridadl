@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  nuxt:
+    container_name: personalsite
+    build: ./app
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./app:/nuxt3
+      - /nuxt3/node_modules/ 
