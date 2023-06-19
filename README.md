@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Atridad! I am a persian-canadian queer software developer who loves making things for the web. I work on a number of random projects, as well as work a day job at AMA (Alberta Motor Association). Thanks for checking out my profile!
+My name is Atridad! I am a persian-canadian queer software developer who loves making things for the web. Thanks for checking out my profile!
 
 🏳️‍🌈 Pronouns: He/They
 
@@ -9,14 +9,23 @@ My name is Atridad! I am a persian-canadian queer software developer who loves m
 🏡 Homebase: Canada 🇨🇦
 
 🚀 Technologies I Use:
+
 - Nextjs + React or Preact
+- Svelte/SvelteKit
 - Astro
 - Typescript
+- tRPC
 - Prisma
-- Postgres
-- Redis
-- Railway
+- Planetscale (mySQL)
+- Upstash (Redis)
+- Resend (Email)
+- OpenAI (LLM APIs)
+- Vercel (Serverless)
+- Railway (Dedicated Servers)
+
+For the most up-to-date list, please check out my [website](https://atri.dad)!
 
 🎉 Things I ship:
+
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Himbot](https://github.com/atridadl/HimBot)
