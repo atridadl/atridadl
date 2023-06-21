@@ -29,3 +29,4 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Himbot](https://github.com/atridadl/HimBot)
+- [Chateau](https://chateau.atri.dad)
