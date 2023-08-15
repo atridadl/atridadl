@@ -15,7 +15,7 @@
 - Astro
 - Typescript
 - tRPC
-- Prisma
+- Drizzle ORM
 - Planetscale (mySQL)
 - Upstash (Redis)
 - Resend (Email)
