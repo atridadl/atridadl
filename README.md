@@ -16,7 +16,7 @@
 - Typescript
 - tRPC
 - Drizzle ORM
-- Planetscale (mySQL)
+- Neon.tech (PostgreSQL)
 - Upstash (Redis)
 - Resend (Email)
 - OpenAI (LLM APIs)
