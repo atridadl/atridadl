@@ -18,6 +18,7 @@
 - Drizzle ORM
 - Neon.tech (PostgreSQL)
 - Upstash (Redis)
+- Unkey (API Key Management)
 - Resend (Email)
 - OpenAI (LLM APIs)
 - Vercel (Serverless)
