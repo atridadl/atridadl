@@ -8,7 +8,7 @@
 
 🏡 Homebase: Canada 🇨🇦
 
-🚀 Technologies I Use:
+💻 Technologies I Use:
 
 - Nextjs + React or Preact
 - Svelte/SvelteKit
@@ -26,8 +26,11 @@
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
-🎉 Things I ship:
+🚀 Things I ship:
 
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Chateau](https://chateau.atri.dad)
+
+🫂 Things I contribute to:
+- [Unkey](https://github.com/unkeyed/unkey)
