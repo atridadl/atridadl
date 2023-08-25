@@ -11,7 +11,6 @@
 💻 Technologies I Use:
 
 - Nextjs + React or Preact
-- Svelte/SvelteKit
 - Astro
 - Typescript
 - tRPC
