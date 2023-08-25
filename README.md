@@ -21,7 +21,7 @@
 - Unkey (API Key Management)
 - Resend (Email)
 - OpenAI (LLM APIs)
-- Vercel (Serverless)
+- Vercel (Serverless/Edge)
 - Railway (Dedicated Servers)
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
