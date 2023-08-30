@@ -28,8 +28,9 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 🚀 Things I ship:
 
 - [Sprint Padawan](https://sprintpadawan.dev)
+- [Atash](https://atash.atri.dad)
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Chateau](https://chateau.atri.dad)
 
-🫂 Things I contribute to:
+🫂 Things I've contributed to:
 - [Unkey](https://github.com/unkeyed/unkey)
