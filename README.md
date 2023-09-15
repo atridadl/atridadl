@@ -13,7 +13,6 @@
 - Nextjs + React or Preact
 - Astro
 - Typescript
-- tRPC
 - Drizzle ORM
 - Neon.tech (PostgreSQL)
 - Upstash (Redis)
