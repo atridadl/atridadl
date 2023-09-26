@@ -29,7 +29,7 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Atash](https://atash.atri.dad)
 - [Himbot](https://github.com/atridadl/HimBot)
-- [Chateau](https://chateau.atri.dad)
+- [Himbot Web](https://himbot.atri.dad)
 
 🫂 Things I've contributed to:
 - [Unkey](https://github.com/unkeyed/unkey)
