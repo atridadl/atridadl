@@ -14,6 +14,7 @@
 - Astro
 - Typescript
 - Drizzle ORM
+- Turso (libSQL)
 - Neon.tech (PostgreSQL)
 - Upstash (Redis)
 - Unkey (API Key Management)
