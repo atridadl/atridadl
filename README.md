@@ -21,7 +21,7 @@
 - Resend (Email)
 - OpenAI (LLM APIs)
 - Vercel (Serverless/Edge)
-- Railway (Dedicated Servers)
+- Fly.io (Long-running Servers)
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
