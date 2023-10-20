@@ -23,6 +23,11 @@
 - Vercel (Serverless/Edge)
 - Fly.io (Long-running Servers)
 
+🧠 Technologies I am learning:
+- Bun
+- Elysia framework for Bun
+- HTMX
+
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
 🚀 Things I ship:
