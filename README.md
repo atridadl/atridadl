@@ -16,6 +16,7 @@
 - Drizzle ORM
 - Turso (libSQL)
 - Neon.tech (PostgreSQL)
+- Planetscale (MySQL)
 - Upstash (Redis)
 - Unkey (API Key Management)
 - Resend (Email)
