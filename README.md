@@ -24,6 +24,7 @@
 - Fly.io (Long-running Servers)
 
 🧠 Technologies I am learning:
+- Go
 - Bun
 - Elysia framework for Bun
 - HTMX
