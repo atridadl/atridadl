@@ -25,6 +25,7 @@
 - Fly.io (Long-running Servers)
 
 🧠 Technologies I am learning:
+
 - Go
 - Bun
 - Elysia framework for Bun
@@ -38,6 +39,9 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Atash](https://atash.atri.dad)
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Himbot Web](https://himbot.atri.dad)
+- [Twitch Helper Commands](https://commands.atri.dad)
 
 🫂 Things I've contributed to:
+
 - [Unkey](https://github.com/unkeyed/unkey)
+- [OpenStatus](https://github.com/openstatusHQ/openstatus)
