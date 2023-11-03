@@ -12,6 +12,8 @@
 
 - Nextjs + React or Preact
 - Astro
+- Bun
+- HTMX
 - Typescript
 - Drizzle ORM
 - Turso (libSQL)
@@ -27,9 +29,6 @@
 🧠 Technologies I am learning:
 
 - Go
-- Bun
-- Elysia framework for Bun
-- HTMX
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
@@ -40,6 +39,7 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Himbot Web](https://himbot.atri.dad)
 - [Twitch Helper Commands](https://commands.atri.dad)
+- [Darius](https://darius.atri.dad)
 
 🫂 Things I've contributed to:
 
