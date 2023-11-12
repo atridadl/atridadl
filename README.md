@@ -17,11 +17,9 @@
 - Typescript
 - Drizzle ORM
 - Turso (libSQL)
-- Neon.tech (PostgreSQL)
 - Planetscale (MySQL)
 - Upstash (Redis)
 - Unkey (API Key Management)
-- Resend (Email)
 - OpenAI (LLM APIs)
 - Vercel (Serverless/Edge)
 - Fly.io (Long-running Servers)
@@ -39,7 +37,8 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Himbot Web](https://himbot.atri.dad)
 - [Twitch Helper Commands](https://commands.atri.dad)
-- [Darius](https://darius.atri.dad)
+- [Darius TS](https://ts.darius.atri.dad)
+- [Darius Go](https://go.darius.atri.dad)
 
 🫂 Things I've contributed to:
 
