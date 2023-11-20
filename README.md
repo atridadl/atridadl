@@ -9,7 +9,6 @@
 🏡 Homebase: Canada 🇨🇦
 
 💻 Technologies I Use:
-
 - Nextjs + React or Preact
 - Astro
 - Bun
@@ -21,17 +20,14 @@
 - Upstash (Redis)
 - Unkey (API Key Management)
 - OpenAI (LLM APIs)
-- Vercel (Serverless/Edge)
-- Fly.io (Long-running Servers)
+- Fly.io (Hosting)
 
 🧠 Technologies I am learning:
-
 - Go
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
 🚀 Things I ship:
-
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Atash](https://atash.atri.dad)
 - [Himbot](https://github.com/atridadl/HimBot)
