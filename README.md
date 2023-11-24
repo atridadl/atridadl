@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## My name is Atridad! I am a persian-canadian queer full-stack software developer who loves making things for the web. Thanks for checking out my profile!
+## My name is Atridad! I'm a full-stack software developer who loves making things for the web. Thanks for checking out my profile!
 
 🏳️‍🌈 Pronouns: He/They
 
