@@ -16,6 +16,7 @@
 - Bun
 - Typescript
 - Drizzle ORM
+- Prisma
 - Turso (libSQL)
 - Planetscale (MySQL)
 - Upstash (Redis)
