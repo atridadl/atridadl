@@ -9,7 +9,9 @@
 🏡 Homebase: Canada 🇨🇦
 
 💻 Technologies I Use:
-- Nextjs + React or Preact
+- React
+- Remix
+- Next.js
 - Astro
 - Bun
 - Typescript
