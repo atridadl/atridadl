@@ -12,7 +12,6 @@
 - Nextjs + React or Preact
 - Astro
 - Bun
-- HTMX
 - Typescript
 - Drizzle ORM
 - Turso (libSQL)
@@ -25,6 +24,7 @@
 
 🧠 Technologies I am learning:
 - Go
+- HTMX
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
