@@ -11,7 +11,6 @@
 💻 Technologies I Use:
 - React
 - Remix
-- Next.js (This is on the way out of my tech stack)
 - Astro
 - Bun
 - Typescript
