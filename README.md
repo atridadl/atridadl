@@ -2,8 +2,6 @@
 
 ## My name is Atridad! I'm a full-stack software developer who loves making things for the web. Thanks for checking out my profile!
 
-🌎 Ethnicity: Persian
-
 🏡 Homebase: Canada 🇨🇦
 
 💻 Technologies I Use:
