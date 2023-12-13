@@ -22,6 +22,7 @@
 🧠 Technologies I am learning:
 - Go
 - HTMX
+- C#
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
