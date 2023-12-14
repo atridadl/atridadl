@@ -30,8 +30,7 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Atash](https://atash.atri.dad)
 - [Himbot](https://github.com/atridadl/HimBot)
-- [Himbot Web](https://himbot.atri.dad)
-- [Twitch Helper Commands](https://commands.atri.dad)
+- [Commodore](https://commodore.atri.dad)
 - [Darius TS](https://ts.darius.atri.dad)
 - [Darius Go](https://go.darius.atri.dad)
 
