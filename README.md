@@ -9,10 +9,12 @@
 - Remix
 - Astro
 - Bun
+- Go
+- HTMX
 - Typescript
 - Drizzle ORM
 - Turso (libSQL)
-- Planetscale (MySQL)
+- Neon.tech (PostgreSQL)
 - Upstash (Redis)
 - Unkey (API Key Management)
 - OpenAI (LLM APIs)
@@ -20,8 +22,6 @@
 - Fly.io (App Hosting)
 
 🧠 Technologies I am learning:
-- Go
-- HTMX
 - C#
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
