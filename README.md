@@ -18,7 +18,6 @@
 - Upstash (Redis)
 - Unkey (API Key Management)
 - OpenAI (LLM APIs)
-- Cloudflare Pages (Static Hosting)
 - Fly.io (App Hosting)
 
 🧠 Technologies I am learning:
