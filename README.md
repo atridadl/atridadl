@@ -21,7 +21,7 @@
 - Fly.io (App Hosting)
 
 🧠 Technologies I am learning:
-- TBD
+- C#
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
