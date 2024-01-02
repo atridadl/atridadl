@@ -26,6 +26,7 @@
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
 🚀 Things I ship:
+- [atri.dad](https://atri.dad)
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Atash](https://atash.atri.dad)
 - [Himbot](https://github.com/atridadl/HimBot)
