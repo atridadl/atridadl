@@ -7,17 +7,15 @@
 💻 Technologies I Use:
 - React
 - Remix
-- Astro
 - Bun
 - Go
 - HTMX
 - Typescript
 - Drizzle ORM
-- Turso (libSQL)
-- Neon.tech (PostgreSQL)
+- PostgreSQL
 - Upstash (Redis)
 - Unkey (API Key Management)
-- OpenAI (LLM APIs)
+- Replicate (LLM APIs)
 - Fly.io (App Hosting)
 
 🧠 Technologies I am learning:
