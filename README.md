@@ -13,8 +13,7 @@
 - Typescript
 - Drizzle ORM
 - PostgreSQL
-- Upstash (Redis)
-- Unkey (API Key Management)
+- Redis
 - Replicate (LLM APIs)
 - Fly.io (App Hosting)
 
