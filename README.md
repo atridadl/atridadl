@@ -30,6 +30,8 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Commodore](https://commodore.atri.dad)
 - [Darius TS](https://ts.darius.atri.dad)
 - [Darius Go](https://go.darius.atri.dad)
+- [GOTH Stack](https://github.com/atridadl/goth.stack)
+- [bunrouter.middleware](https://github.com/atridadl/bunrouter.middleware)
 
 🫂 Things I've contributed to:
 
