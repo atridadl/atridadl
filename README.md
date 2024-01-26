@@ -29,7 +29,6 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [Darius Go](https://go.darius.atri.dad)
 - [loadr](https://github.com/atridadl/loadr)
 - [GOTH Stack](https://github.com/atridadl/goth.stack)
-- [BunRouter Middleware (BMW)](https://github.com/atridadl/bmw)
 
 🫂 Things I've contributed to:
 
