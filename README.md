@@ -14,9 +14,8 @@
 - Typescript
 - Drizzle ORM
 - PostgreSQL
-- Redis
+- Redis/Firefly
 - Replicate (LLM APIs)
-- Fly.io (App Hosting)
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
@@ -24,11 +23,9 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 
 - [atri.dad](https://atri.dad)
 - [Sprint Padawan](https://sprintpadawan.dev)
-- [Atash](https://atash.atri.dad)
+- [Atash](https://github.com/atridadl/Atash)
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Commodore](https://commodore.atri.dad)
-- [Darius TS](https://ts.darius.atri.dad)
-- [Darius Go](https://go.darius.atri.dad)
 - [loadr](https://github.com/atridadl/loadr)
 - [GOTH Stack](https://github.com/atridadl/goth.stack)
 
