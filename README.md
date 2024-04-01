@@ -24,6 +24,7 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 - [atri.dad](https://atri.dad)
 - [Sprint Padawan](https://sprintpadawan.dev)
 - [Atash](https://github.com/atridadl/Atash)
+- [Darius](https://github.com/atridadl/Darius)
 - [Himbot](https://github.com/atridadl/HimBot)
 - [Commodore](https://commodore.atri.dad)
 - [loadr](https://github.com/atridadl/loadr)
