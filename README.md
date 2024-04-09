@@ -22,7 +22,7 @@ For the most up-to-date list, please check out my [website](https://atri.dad)!
 🚀 Things I ship:
 
 - [atri.dad](https://atri.dad)
-- [Sprint Padawan](https://sprintpadawan.dev)
+- [Pollo](https://pollo.atri.dad)
 - [Atash](https://github.com/atridadl/Atash)
 - [GOTH Stack](https://github.com/atridadl/goth.stack)
 - [Himbot](https://github.com/atridadl/HimBot)
