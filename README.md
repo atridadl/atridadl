@@ -15,7 +15,6 @@
 - Drizzle ORM
 - PostgreSQL
 - Redis/Firefly
-- Replicate (LLM APIs)
 
 For the most up-to-date list, please check out my [website](https://atri.dad)!
 
