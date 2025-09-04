@@ -4,4 +4,4 @@
 
 ### Where are your project?
 
-This accound is strictly for professional collaboration that requires GitHub. If you're looking for my personal work, it lives over [here](https://git.atri.dad).
+This accound is strictly for professional collaboration that requires GitHub. If you're looking for my personal work, it lives over [here](https://git.atri.dad/atridad).
