@@ -16,3 +16,4 @@ Of course! I have a [Codeberg](https://codeberg.org/atridad) account for public 
 - [TrueNAS Apps](https://github.com/truenas/apps)
 - [Navidrome Discord Rich Presence Plugin](https://github.com/navidrome/discord-rich-presence-plugin)
 - [DEV Edmonton Society website](https://github.com/devedmonton/DES-Website)
+- [Element X iOS](https://github.com/element-hq/element-x-ios)
