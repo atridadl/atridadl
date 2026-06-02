@@ -13,6 +13,7 @@ This account is **strictly for professional and OSS collaboration** that still r
 Of course! I have accounts on these platforms:
 - [Codeberg](https://codeberg.org/atridad)
 - [GitLab](https://gitlab.com/atridad)
+- [Continuwuity Forgejo](https://forgejo.ellis.link/atridad)
 
 ## Repositories Contributed To On GitHub
 - [TrueNAS Apps](https://github.com/truenas/apps)
