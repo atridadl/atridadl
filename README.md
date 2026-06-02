@@ -10,7 +10,9 @@ This account is **strictly for professional and OSS collaboration** that still r
 
 ## What about OSS projects that don't live on GitHub?
 
-Of course! I have a [Codeberg](https://codeberg.org/atridad) account for public contributions there.
+Of course! I have accounts on these platforms:
+- [Codeberg](https://codeberg.org/atridad)
+- [GitLab](https://gitlab.com/atridad)
 
 ## Repositories Contributed To On GitHub
 - [TrueNAS Apps](https://github.com/truenas/apps)
